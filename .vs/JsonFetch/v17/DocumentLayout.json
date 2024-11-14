@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\JsonFetch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\views\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\views\\jobs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\models\\jobroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\models\\jobroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|c:\\users\\user\\source\\repos\\jsonfetch\\jsonfetch\\wwwroot\\lib\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD2F7D72-72B1-4EC8-9D92-3F6258B9735E}|JsonFetch\\JsonFetch.csproj|solutionrelative:jsonfetch\\wwwroot\\lib\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JsonFetch\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JsonFetch\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:06:03.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Views\\Jobs\\Index.cshtml",
+              "RelativeDocumentMoniker": "JsonFetch\\Views\\Jobs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Views\\Jobs\\Index.cshtml",
+              "RelativeToolTip": "JsonFetch\\Views\\Jobs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:04:51.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "JsonFetch\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Controllers\\JobController.cs",
+              "RelativeToolTip": "JsonFetch\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:01:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JsonFetch\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Models\\Job.cs",
+              "RelativeToolTip": "JsonFetch\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:00:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jobroot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Models\\Jobroot.cs",
+              "RelativeDocumentMoniker": "JsonFetch\\Models\\Jobroot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\Models\\Jobroot.cs",
+              "RelativeToolTip": "JsonFetch\\Models\\Jobroot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:56:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Data.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\wwwroot\\lib\\Data.json",
+              "RelativeDocumentMoniker": "JsonFetch\\wwwroot\\lib\\Data.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\JsonFetch\\JsonFetch\\wwwroot\\lib\\Data.json",
+              "RelativeToolTip": "JsonFetch\\wwwroot\\lib\\Data.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T16:49:31.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Jobs": [
+    {
+      "ID": "1",
+      "Position": "Flutter Developer",
+      "Experience": "2+",
+      "Location": "On-Site",
+      "Time": "Full Time",
+      "Active": 1,
+      "Requirements": {
+        "Responsibilities": [
+          "Develop, test, and maintain .NET applications and services.",
+          "Collaborate with front-end developers, designers, and other team members to build robust, scalable software solutions.",
+          "Write clean, scalable code using .NET programming languages (C#, VB.NET, ASP.NET Core, etc.).",
+          "Troubleshoot, debug, and optimize existing applications.",
+          "Participate in code reviews and contribute to technical documentation.",
+          "Design and implement APIs and integrate third-party services."
+        ],
+        "Qualifications": {
+          "Education": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+          "Experience": "Proven experience as a .NET Developer (2+ years preferred).",
+          "Skills": [
+            "Proficient in MS Office (Word, Excel, PowerPoint) and general computer skills.",
+            "Strong knowledge of .NET Core, ASP.NET MVC, and ASP.NET Web API.",
+            "Proficiency in C#, SQL, HTML, CSS, JavaScript, and other related technologies.",
+            "Knowledge of RESTful API development and integration.",
+            "Strong problem-solving skills and attention to detail."
+          ]
+        }
+      },
+      "WhatWeOffer": {
+        "Description": "We are seeking a motivated and organized .Net Developer to join our development team. In this role, you will be responsible for building, maintaining, and enhancing software applications using .NET technologies. The ideal candidate is detail-oriented, capable of working independently, and collaborates well within a team.",
+        "Benefits": [
+          "Competitive salary and benefits.",
+          "A friendly and collaborative work environment.",
+          "Opportunities for career growth and professional development."
+        ]
+      },
+      "ApplicationNote": "Interested candidates should send their resume, cover letter, and references here or to Career@insoftnepal.com.np. Please include 'Administrator Application' in the subject line."
+    },
+    {
+      "ID": "2",
+      "Position": ".Net Developer",
+      "Experience": "2+",
+      "Location": "On-Site",
+      "Time": "Full Time",
+      "Active": 1,
+      "Requirements": {
+        "Responsibilities": [
+          "Develop, test, and maintain .NET applications and services.",
+          "Collaborate with front-end developers, designers, and other team members to build robust, scalable software solutions.",
+          "Write clean, scalable code using .NET programming languages (C#, VB.NET, ASP.NET Core, etc.).",
+          "Troubleshoot, debug, and optimize existing applications.",
+          "Participate in code reviews and contribute to technical documentation.",
+          "Design and implement APIs and integrate third-party services."
+        ],
+        "Qualifications": {
+          "Education": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+          "Experience": "Proven experience as a .NET Developer (2+ years preferred).",
+          "Skills": [
+            "Proficient in MS Office (Word, Excel, PowerPoint) and general computer skills.",
+            "Strong knowledge of .NET Core, ASP.NET MVC, and ASP.NET Web API.",
+            "Proficiency in C#, SQL, HTML, CSS, JavaScript, and other related technologies.",
+            "Knowledge of RESTful API development and integration.",
+            "Strong problem-solving skills and attention to detail."
+          ]
+        }
+      },
+      "WhatWeOffer": {
+        "Description": "We are seeking a motivated and organized .Net Developer to join our development team. In this role, you will be responsible for building, maintaining, and enhancing software applications using .NET technologies. The ideal candidate is detail-oriented, capable of working independently, and collaborates well within a team.",
+        "Benefits": [
+          "Competitive salary and benefits.",
+          "A friendly and collaborative work environment.",
+          "Opportunities for career growth and professional development."
+        ]
+      },
+      "ApplicationNote": "Interested candidates should send their resume, cover letter, and references here or to Career@insoftnepal.com.np. Please include 'Administrator Application' in the subject line."
+    }
+  ]
+}

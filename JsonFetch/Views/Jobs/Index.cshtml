@@ -1,0 +1,14 @@
+﻿@model JsonFetch.Models.JobsRoot
+
+<h2>Job Listings</h2>
+
+@foreach (var job in Model.Jobs)
+{
+    <div>
+        <h3>@job.Position</h3>
+        <p><strong>Experience:</strong> @job.Experience</p>
+        <p><strong>Location:</strong> @job.Location</p>
+        <p><strong>Time:</strong> @job.Time</p>
+        <p><strong>Active:</strong> @(job.Active == 1 ? "Yes" : "No")</p>
+    </div>
+}
